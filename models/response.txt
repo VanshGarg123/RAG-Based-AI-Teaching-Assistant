@@ -1,0 +1,7 @@
+I'd be happy to help you with your web development course.
+
+You asked about forms and input tags in HTML. 
+
+In the 7th video of your Sigma web development course, titled "Forms and inputs", we discuss what forms are and how they work in HTML. Specifically, at around 4 seconds into the video (which corresponds to a timestamp of 4.88 seconds), we talk about the `input` tag in forms.
+
+If you want to learn more about forms, input tags, and how they're used in HTML, I'd recommend watching the 7th video.
