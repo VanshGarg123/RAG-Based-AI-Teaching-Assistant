@@ -13,7 +13,7 @@ df = joblib.load("models/embeddings.joblib")
 
 HF_TOKEN = os.getenv("HF_TOKEN")
 EMBEDDING_MODEL = "bge-m3"
-LLM_MODEL = "Llama-3.2-3B-Instruct"
+LLM_MODEL = "meta-llama/Llama-3.2-3B-Instruct"
 
 def create_embedding(text_list):
     try:
